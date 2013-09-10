@@ -1,0 +1,24 @@
+
+#
+# word: 
+#     - TYPE (n, v, prn, adj, adv, adj; adv, inq, k) 
+#     - DEFINITION
+#     - EXPLANATION (optional)
+#
+
+bela:
+    - adj; adv
+    - beautiful; beautifully
+
+belo:
+    - n
+    - a beauty
+    - describes a beauty or type of beauty
+
+bona:
+    - adj; adv
+    - good; well
+
+bono:
+    - n
+    - a goodness
