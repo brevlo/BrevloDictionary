@@ -1,3 +1,9 @@
+#
+# word:
+# - TYPE (adj, adv, adj; adv, n, prn, v, kw, inq)
+# - DEFITION
+# - EXPLANATION (optional)
+#
 baito:
 - n
 - a bite
@@ -23,6 +29,9 @@ dago:
 draivu:
 - v
 - to drive
+fifa:
+- adj
+- five; 5
 fifo:
 - n
 - five; 5
@@ -41,6 +50,9 @@ fromo:
 grupo:
 - n
 - a group
+guga:
+- n
+- eight; 8
 gugo:
 - n
 - eight; 8
@@ -106,6 +118,9 @@ runu:
 sala:
 - art
 - the
+sesa:
+- adj
+- six; 6
 seso:
 - n
 - six; 6
@@ -139,6 +154,9 @@ tito:
 vagro:
 - n
 - water
+vava:
+- adj
+- seven; 7
 vavo:
 - n
 - seven; 7
