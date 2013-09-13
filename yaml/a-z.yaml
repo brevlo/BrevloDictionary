@@ -29,12 +29,30 @@ dago:
 draivu:
 - v
 - to drive
+dure:
+- kw
+- throughout; for (time)
+- '[verb] for the duration of [arg]; throughout the entire time of an event'
+duri:
+- inq
+- how much time; what duration
+- used in place of "how long?" (time)
+duro:
+- n
+- a duration
+- a duration of a unit of time
 fifa:
 - adj
 - five; 5
 fifo:
 - n
 - five; 5
+fino:
+- n
+- an end
+finu:
+- v
+- to finish; to end
 frato:
 - n
 - a brother
@@ -130,9 +148,13 @@ siva:
 sivo:
 - prn
 - us; we
+starto:
+- n
+- a start; a beginning
 taime:
 - kw
-- at (time)
+- at (time); during
+- at some point during an event or time slot
 taimi:
 - inq
 - what time; when
