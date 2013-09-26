@@ -1,9 +1,3 @@
-#
-# word:
-# - TYPE (adj, adv, adj; adv, n, prn, v, kw, inq)
-# - DEFITION
-# - EXPLANATION (optional)
-#
 baito:
 - n
 - a bite
@@ -17,6 +11,19 @@ belo:
 bona:
 - adj; adv
 - good; well
+bono:
+- n
+- a goodness
+borto:
+- n
+- an end
+- a premature end of something
+bortu:
+- v
+- to abort; to quit; to end prematurely
+bute:
+- kw
+- but; however
 dada:
 - adj
 - two; 2
@@ -65,6 +72,10 @@ frome:
 fromo:
 - n
 - an origin
+fromu:
+- v
+- to leave; to go; to come; to travel
+- '[subject] leaves/goes from/comes from [origin]'
 grupo:
 - n
 - a group
@@ -74,9 +85,39 @@ guga:
 gugo:
 - n
 - eight; 8
+hana:
+- prn
+- his
+hano:
+- prn
+- he; himself
+hapo:
+- n
+- a happiness
+hapu:
+- v
+- to make happy
+havu:
+- v
+- to have
+hina:
+- prn
+- hers; her
+hino:
+- prn
+- she; herself
+hona:
+- prn
+- their; theirs
+hono:
+- prn
+- he; she; they (singular)
 hundo:
 - n
 - a dog
+jaro:
+- n
+- a year; 365 days
 jijo:
 - n
 - nine; 9
@@ -89,6 +130,30 @@ kako:
 kato:
 - n
 - a cat
+knire:
+- kw
+- or (exclusive); XOR
+- logical XOR
+kompo:
+- n
+- a computer
+- any computer system; any device that computes information electronically
+kompozlango:
+- n
+- a programming language
+- a language that allows communication with computers in some way
+kompu:
+- v
+- to compute
+- to electronically calculate something
+kompuztulo:
+- n
+- a personal computer; a PC
+- a tool that computes
+lango:
+- n
+- a language
+- a language, spoken or otherwise, that is used for communication
 larja:
 - adj; adv
 - large; largely
@@ -114,6 +179,25 @@ mono:
 neno:
 - n
 - zero; 0
+nete:
+- kw
+- and
+neto:
+- n
+- an inclusion
+- something included
+netu:
+- v
+- to include
+- '[subject] includes [object]'
+nire:
+- kw
+- or (inclusive)
+- logical disjunction
+nore:
+- kw
+- nor; neither ... nor
+- logical NOR
 patro:
 - n
 - a father
@@ -151,6 +235,12 @@ sivo:
 starto:
 - n
 - a start; a beginning
+sunazdago:
+- n
+- a daylight day
+suno:
+- n
+- a sun
 taime:
 - kw
 - at (time); during
@@ -173,6 +263,20 @@ tita:
 tito:
 - n
 - three; 3
+tore:
+- kw
+- to; towards
+toro:
+- n
+- a destination
+toru:
+- v
+- to head to; to come; to go
+- '[subject] goes to/comes to/travels to [destination]'
+tulo:
+- n
+- a tool
+- a tool or device used to perform a task
 vagro:
 - n
 - water
